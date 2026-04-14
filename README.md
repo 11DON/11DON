@@ -35,9 +35,9 @@ Full-Stack Software Engineer specializing in Flutter, React.js, and Node.js — 
 
 ## 🚀 Featured Projects
 
-**[Mozaik Platform]((https://mozaik-eg.com/))** — Full-stack job & project management platform built solo in 2 months. React + Node.js + MongoDB, end-to-end.
+**[Mozaik Platform](https://mozaik-eg.com/)** — Full-stack job & project management platform built solo in 2 months. React + Node.js + MongoDB, end-to-end.
 
-**[Furnish Modern]((https://github.com/11DON/FurnishModern))** — E-commerce furniture web app with Stripe integration. 100% successful payment processing in testing.
+**[Furnish Modern](https://github.com/11DON/FurnishModern)** — E-commerce furniture web app with Stripe integration. 100% successful payment processing in testing.
 
 **[Nova AI](https://github.com/11DON/NovaAi)** — Flutter AI chat assistant with multiple personas & Hive session management. 40% improvement in response relevance.
 
