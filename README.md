@@ -1,5 +1,5 @@
 
-###👋 Mahmoud Adel El-Araby
+### Mahmoud Adel El-Araby
 ### Full-Stack & Mobile Engineer · Flutter · React · Node.js · Cairo, Egypt
 
 
